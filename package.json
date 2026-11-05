@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CharlieChenyuZhang/node-local-setup.git"
+    "url": "git+https://github.com/thechenyuzhang/node-local-setup.git"
   },
   "author": "Charlie Chenyu Zhang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CharlieChenyuZhang/node-local-setup/issues"
+    "url": "https://github.com/thechenyuzhang/node-local-setup/issues"
   },
-  "homepage": "https://github.com/CharlieChenyuZhang/node-local-setup#readme"
+  "homepage": "https://github.com/thechenyuzhang/node-local-setup#readme"
 }
